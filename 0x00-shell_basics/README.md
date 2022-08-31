@@ -1,1 +1,1 @@
-basic shell commands
+contents list of your current directory
